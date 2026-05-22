@@ -141,11 +141,10 @@
    ========================================================================== */
 
 .author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 70px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  display: block;
+  width: 100%;
+  max-width: 200px;
+  margin: 0 auto 1em;
 
   @include breakpoint($large) {
     display: block;
@@ -154,7 +153,8 @@
   }
 
   img {
-    max-width: 175px;
+    width: 100%;
+    height: auto;
     border-radius: 0%;
 
     @include breakpoint($large) {
