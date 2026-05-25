@@ -3,7 +3,7 @@ title: "A Brief Reflection on Social Movements"
 collection: publications
 category: others
 permalink: /publication/reflection-social-movements
-excerpt: 'This reflection piece discusses the role of social movements in shaping society, drawing on personal impressions from the Gezi Park movement and connecting them to political science concepts like power, resistance, and civic participation.'
+excerpt: 'This reflection piece discusses the role of social movements in shaping political and social outcomes, drawing on personal impressions from the Gezi Park movement and connecting them to political science concepts such as power, resistance, and civic participation.'
 date: 2023-12-08
 venue: 'American Political Science Association Educate, 2023'
 paperurl: 'https://educate.apsanet.org/a-brief-reflection-on-social-movements'
