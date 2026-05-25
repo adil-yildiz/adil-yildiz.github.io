@@ -1,5 +1,5 @@
 ---
-title: "Political Polarization and Human Rights Violations"
+title: "Political Polarization and Human Rights"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-political-polarization-human-rights
