@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 author_profile: true
-image: /images/ay-og.png
+image: /images/ay_og.png
 redirect_from:
   - /about/
   - /about.html
