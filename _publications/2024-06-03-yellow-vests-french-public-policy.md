@@ -5,7 +5,7 @@ category: others
 permalink: /publication/yellow-vests-french-public-policy
 excerpt: 'This blog post analyzes how the Yellow Vests (Gilets Jaunes) movement successfully pressured the French government to scrap a planned fuel tax hike, highlighting the crucial role of public opinion and grassroots mobilization in driving policy change.'
 date: 2024-06-03
-venue: 'Yale Journal of European Affairs (YJEA) Blog'
+venue: 'Young Journal of European Affairs (YJEA) Blog'
 paperurl: 'https://yjea.org/2024/06/03/from-streets-to-policies-the-impact-of-yellow-vests-movement-on-french-public-policy/'
-citation: 'Yildiz, A. (2024). "From Streets to Policies: The Impact of Yellow Vests Movement on French Public Policy." <i>Yale Journal of European Affairs (YJEA) Blog</i>.'
+citation: 'Yildiz, A. (2024). "From Streets to Policies: The Impact of Yellow Vests Movement on French Public Policy." <i>Young Journal of European Affairs (YJEA) Blog</i>.'
 ---
