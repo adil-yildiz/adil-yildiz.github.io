@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Prior Rebel Experience of Leaders and Its Influence on Physical Integrity Rights"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-12-29-rebel-leaders-pirs
