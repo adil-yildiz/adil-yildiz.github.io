@@ -1,0 +1,10 @@
+---
+title: "Politics of Latin America"
+collection: teaching
+type: "Teaching Assistant"
+permalink: /teaching/2024-ta-latin-america
+venue: "University of Mississippi, Department of Political Science"
+date: 2024-08-01
+location: "Oxford, MS, United States"
+---
+Instructor: [Prof. Gregory Love](https://olemiss.edu/profiles/gjlove.php)
