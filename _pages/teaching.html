@@ -4,21 +4,20 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
-
 {% include base_path %}
-
 <h2>University of Mississippi, <a href="https://olemiss.edu/politicalscience/">Department of Political Science</a></h2>
-
 <h2>Graduate Instructor</h2>
-
 {% for post in site.teaching reversed %}
   {% if post.type == "Instructor of Record" %}
     {% include archive-single.html %}
+    {% if post.title contains "International Relations" %}
+      <img src="/images/int-relations.png" alt="Introduction to International Relations" style="width: 100%; margin-bottom: 20px;">
+    {% elsif post.title contains "Comparative Politics" %}
+      <img src="/images/comp-politics.png" alt="Introduction to Comparative Politics" style="width: 100%; margin-bottom: 20px;">
+    {% endif %}
   {% endif %}
 {% endfor %}
-
 <h2>Teaching Assistant</h2>
-
 {% for post in site.teaching reversed %}
   {% if post.type == "Teaching Assistant" %}
     {% include archive-single.html %}
