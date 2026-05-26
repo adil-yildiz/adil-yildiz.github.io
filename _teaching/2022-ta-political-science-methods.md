@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Political Science Methods"
+title: "Introduction to Political Science Methods, 2022"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2022-ta-political-science-methods
