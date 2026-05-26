@@ -1,5 +1,5 @@
 ---
-title: "Introduction to International Relations"
+title: "Introduction to International Relations, 2025"
 collection: teaching
 type: "Instructor of Record"
 permalink: /teaching/2025-fall-intro-ir
