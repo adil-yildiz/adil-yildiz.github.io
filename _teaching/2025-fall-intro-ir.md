@@ -8,3 +8,5 @@ date: 2025-08-01
 location: "Oxford, MS, United States"
 ---
 Student evaluation: 4.78/5.0
+
+<img src="/images/int-relations.png" alt="Introduction to International Relations" style="width: 100%; margin-top: 15px;">
