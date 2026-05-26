@@ -1,5 +1,5 @@
 ---
-title: "Gender and Politics"
+title: "Gender and Politics, 2023"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2023-ta-gender-politics
