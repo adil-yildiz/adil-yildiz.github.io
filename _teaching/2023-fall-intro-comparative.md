@@ -8,3 +8,5 @@ date: 2023-08-01
 location: "Oxford, MS, United States"
 ---
 Student evaluation: 4.0/5.0
+
+<img src="/images/comp-politics.png" alt="Introduction to Comparative Politics" style="width: 100%; margin-top: 15px;">
